@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="sub-sup-formatting" type="JavaScript" />
+      <mapping pattern="_heading.scss" type="PLAIN_TEXT" />
+      <mapping pattern="_mixins.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
