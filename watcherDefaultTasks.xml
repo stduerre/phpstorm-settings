@@ -21,6 +21,26 @@
         <option name="workingDir" value="$FileDir$" />
         <envs />
       </TaskOptions>
+      <TaskOptions>
+        <option name="arguments" value="--update $ProjectFileDir$/assets/css/source/$FileName$:$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css --style compressed" />
+        <option name="checkSyntaxErrors" value="true" />
+        <option name="description" />
+        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="fileExtension" value="scss" />
+        <option name="immediateSync" value="true" />
+        <option name="name" value="Sass planet4-gpch-plugin-blocks" />
+        <option name="output" value="$ProjectFileDir$/assets/css/source/$FileNameWithoutExtension$.css" />
+        <option name="outputFilters">
+          <array />
+        </option>
+        <option name="outputFromStdout" value="false" />
+        <option name="program" value="sass" />
+        <option name="runOnExternalChanges" value="true" />
+        <option name="scopeName" value="Project Files" />
+        <option name="trackOnlyRoot" value="true" />
+        <option name="workingDir" value="$FileDir$" />
+        <envs />
+      </TaskOptions>
     </global-watchers>
   </component>
 </application>
