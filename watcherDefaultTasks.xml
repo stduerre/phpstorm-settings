@@ -2,13 +2,13 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="--update $FileName$:$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css --style compressed" />
+        <option name="arguments" value="--update $ProjectFileDir$/src/scss/$FileName$:$ProjectFileDir$/$FileNameWithoutExtension$.css --style compressed" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
         <option name="fileExtension" value="scss" />
         <option name="immediateSync" value="true" />
-        <option name="name" value="Sass" />
+        <option name="name" value="Sass planet4-gpch-child-theme" />
         <option name="output" value="$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css" />
         <option name="outputFilters">
           <array />
